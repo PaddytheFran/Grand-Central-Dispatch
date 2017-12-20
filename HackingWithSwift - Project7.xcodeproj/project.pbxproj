@@ -12,7 +12,7 @@
 		F9A2D6A61FEA22A1005535F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9A2D6A41FEA22A1005535F6 /* Main.storyboard */; };
 		F9A2D6A81FEA22A1005535F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9A2D6A71FEA22A1005535F6 /* Assets.xcassets */; };
 		F9A2D6AB1FEA22A1005535F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9A2D6A91FEA22A1005535F6 /* LaunchScreen.storyboard */; };
-		F9A2D6B31FEB004C005535F6 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A2D6B21FEB004C005535F6 /* SwiftyJSON.swift */; };
+		F9A2D6B51FEB0601005535F6 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9A2D6B41FEB0601005535F6 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		F9A2D6A71FEA22A1005535F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9A2D6AA1FEA22A1005535F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F9A2D6AC1FEA22A1005535F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F9A2D6B21FEB004C005535F6 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		F9A2D6B41FEB0601005535F6 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = "../../../../../Desktop/HackingWithSwift-master/project7-files/SwiftyJSON.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 				F9A2D6A41FEA22A1005535F6 /* Main.storyboard */,
 				F9A2D6A71FEA22A1005535F6 /* Assets.xcassets */,
 				F9A2D6A91FEA22A1005535F6 /* LaunchScreen.storyboard */,
-				F9A2D6B21FEB004C005535F6 /* SwiftyJSON.swift */,
+				F9A2D6B41FEB0601005535F6 /* SwiftyJSON.swift */,
 				F9A2D6AC1FEA22A1005535F6 /* Info.plist */,
 			);
 			path = "HackingWithSwift - Project7";
@@ -140,7 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F9A2D6B31FEB004C005535F6 /* SwiftyJSON.swift in Sources */,
+				F9A2D6B51FEB0601005535F6 /* SwiftyJSON.swift in Sources */,
 				F9A2D6A31FEA22A1005535F6 /* ViewController.swift in Sources */,
 				F9A2D6A11FEA22A1005535F6 /* AppDelegate.swift in Sources */,
 			);
